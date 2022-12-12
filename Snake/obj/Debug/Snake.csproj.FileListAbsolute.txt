@@ -1,0 +1,22 @@
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\bin\Debug\Snake.exe.config
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\bin\Debug\Snake.exe
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\bin\Debug\Snake.pdb
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.exe
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.pdb
+C:\Users\OEM\Desktop\ZPO3 - okienko\Snake\obj\Debug\Snake.Gra.resources
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\bin\Debug\Snake.exe.config
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\bin\Debug\Snake.exe
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\bin\Debug\Snake.pdb
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.Gra.resources
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.exe
+E:\ZPO-projekt\ZPO3 - okienkov3\ZPO3 - okienko\Snake\obj\Debug\Snake.pdb
